@@ -1,6 +1,6 @@
 ### Developer
 
-1. Sinovuyo Joe Mjulwa
+1. Mogale Kgasago
 
 ### BEFORE RUNNING THE PROJECT INSTALL THESE...
 
